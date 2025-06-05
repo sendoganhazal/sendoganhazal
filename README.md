@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sendoganhazal.
 - 👀 I’m interested in HTML/CSS, JavaScript, React.js,Next.js and Strapi.
-- 🌱 I’m currently learning Unity.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me [twitter: @hazalsendogan](https://x.com/hazalsendogan) and [instagram: @hazalsendogan]( https://www.instagram.com/hazalsendogan/ )
 
 <!---
